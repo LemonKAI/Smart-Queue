@@ -1,6 +1,3 @@
-# queuing
-
-A new Flutter project.
 
 ## Project: SMART QUEUE
 
