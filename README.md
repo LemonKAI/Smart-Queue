@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Project: SMART QUEUE
 
 This project is a starting point for a Flutter application.
