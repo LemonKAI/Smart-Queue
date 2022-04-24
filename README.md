@@ -26,8 +26,9 @@ However, it often leads to unsatisfying customer experience and our project is t
 - Customers can choose to pay on their mobile devices or in person.
 
 ## Demo Page
-Input Page | Information Page | Menu Page 
---- | --- | --- | 
-<img src="asset/images/inputPage.jpg" width = "200" > |<img src="asset/images/infoPage.jpg" width = "200" > | <img src="asset/images/menuPage.jpg" width = "200" > | 
-Ordering Page | Cart Page | Checkout Page
-<img src="asset/images/orderingPage.jpg" width = "200" > | <img src="asset/images/cartPage.jpg" width = "200" > | <img src="asset/images/checkoutPage.jpg" width = "200" >
+
+| Input Page | Information Page | Menu Page | 
+| :--- | :--- | :--- | 
+| <img src="asset/images/inputPage.jpg" width = "200" > |<img src="asset/images/infoPage.jpg" width = "200" > | <img src="asset/images/menuPage.jpg" width = "200" > 
+| Ordering Page | Cart Page | Checkout Page |
+|<img src="asset/images/orderingPage.jpg" width = "200" > | <img src="asset/images/cartPage.jpg" width = "200" > | <img src="asset/images/checkoutPage.jpg" width = "200" >|
