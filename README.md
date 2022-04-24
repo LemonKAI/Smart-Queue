@@ -1,6 +1,8 @@
 
 ## Project: SMART QUEUE
 
+<img src="asset/images/onewayqueue.png" width="200" alt="project_logo"/>
+
 ## Description of the Project
 
 Due to its small area of land and high population, Hong Kong ranks 4th in population density in the world. As there is a saying that “Hong Kong restaurants sell food to pay the rent”, such situation naturally leads to a high housing price and rental price for businesses. 
