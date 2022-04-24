@@ -16,3 +16,8 @@ However, it often leads to unsatisfying customer experience and our project is t
 - Provide customers with simple and useful queuing and ordering procedures.
 - Provide cost-efficient and powerful solutions to facilitate both queuing and ordering processes for restaurant managers.
 - Customers can choose to pay on their mobile devices or in person.
+
+## Demo Page
+Input Page | Information Page | Menu Page | Ordering Page | Cart Page | Checkout Page
+--- | --- | --- | --- | --- | ---
+<img src="asset/images/inputPage.jpg" width = "150" > |<img src="asset/images/infoPage.jpg" width = "150" > | <img src="asset/images/menuPage.jpg" width = "150" > | <img src="asset/images/orderingPage.jpg" width = "150" > | <img src="asset/images/cartPage.jpg" width = "150" > | <img src="asset/images/checkoutPage.jpg" width = "150" >
