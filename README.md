@@ -27,8 +27,8 @@ However, it often leads to unsatisfying customer experience and our project is t
 
 ## Demo Page
 
-| Input Page | Information Page | Menu Page | 
-| :--- | :--- | :--- | 
-| <img src="asset/images/inputPage.jpg" width = "200" > |<img src="asset/images/infoPage.jpg" width = "200" > | <img src="asset/images/menuPage.jpg" width = "200" > 
-| Ordering Page | Cart Page | Checkout Page |
-|<img src="asset/images/orderingPage.jpg" width = "200" > | <img src="asset/images/cartPage.jpg" width = "200" > | <img src="asset/images/checkoutPage.jpg" width = "200" >|
+| `Input Page` | `Information Page` | `Menu Page` | 
+| :---: | :---: | :---: | 
+| *<img src="asset/images/inputPage.jpg" width = "250" >* |<img src="asset/images/infoPage.jpg" width = "250" > | <img src="asset/images/menuPage.jpg" width = "250" > 
+| `Ordering Page` | `Cart Page` | `Checkout Page` |
+|<img src="asset/images/orderingPage.jpg" width = "250" > | <img src="asset/images/cartPage.jpg" width = "250" > | <img src="asset/images/checkoutPage.jpg" width = "250" >|
