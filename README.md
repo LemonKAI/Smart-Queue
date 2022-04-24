@@ -3,6 +3,14 @@
 
 <img src="asset/images/onewayqueue.png" width="200" alt="project_logo"/>
 
+## Team Memebers
+* CHOI Ji-Hoon
+* Hau Yi Shan
+* Tong Ka Hei
+* Chan Ka Chun
+* Chan Hei
+* NING Tongqi
+
 ## Description of the Project
 
 Due to its small area of land and high population, Hong Kong ranks 4th in population density in the world. As there is a saying that “Hong Kong restaurants sell food to pay the rent”, such situation naturally leads to a high housing price and rental price for businesses. 
@@ -18,6 +26,8 @@ However, it often leads to unsatisfying customer experience and our project is t
 - Customers can choose to pay on their mobile devices or in person.
 
 ## Demo Page
-Input Page | Information Page | Menu Page | Ordering Page | Cart Page | Checkout Page
---- | --- | --- | --- | --- | ---
-<img src="asset/images/inputPage.jpg" width = "150" > |<img src="asset/images/infoPage.jpg" width = "150" > | <img src="asset/images/menuPage.jpg" width = "150" > | <img src="asset/images/orderingPage.jpg" width = "150" > | <img src="asset/images/cartPage.jpg" width = "150" > | <img src="asset/images/checkoutPage.jpg" width = "150" >
+Input Page | Information Page | Menu Page 
+--- | --- | --- | 
+<img src="asset/images/inputPage.jpg" width = "200" > |<img src="asset/images/infoPage.jpg" width = "200" > | <img src="asset/images/menuPage.jpg" width = "200" > | 
+Ordering Page | Cart Page | Checkout Page
+<img src="asset/images/orderingPage.jpg" width = "200" > | <img src="asset/images/cartPage.jpg" width = "200" > | <img src="asset/images/checkoutPage.jpg" width = "200" >
