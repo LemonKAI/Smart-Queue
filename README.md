@@ -3,13 +3,6 @@
 
 <img src="asset/images/onewayqueue.png" width="200" alt="project_logo"/>
 
-## Team Memebers
-* CHOI Ji-Hoon
-* Hau Yi Shan
-* Tong Ka Hei
-* Chan Ka Chun
-* Chan Hei
-* NING Tongqi
 
 ## Description of the Project
 
